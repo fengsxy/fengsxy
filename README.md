@@ -1,7 +1,6 @@
 - 👋 Hi, I’m 晓宇
 - 👀 I’m interested in Web/DL/ML/Phy
 - 🌱 I’m currently learning python/go
-- 💞️ I’m looking to collaborate 
 - 📫 How to reach me 4797136@qq.com
 
 <!---
