@@ -1,7 +1,5 @@
 ### Hi there 👋
-
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=fengsxy&count_private=true&show_icons=true&theme=radical" width="420">
-
 
 - 👋 Hi, I’m Liddle Rain
 - 👀 I’m interested in Web/DL/ML/Phy
